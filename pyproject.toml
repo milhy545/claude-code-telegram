@@ -44,7 +44,7 @@ aiosqlite = "^0.21.0"
 anthropic = "^0.40.0"
 claude-code-sdk = "^0.0.11"
 google-generativeai = "^0.8.0"
-aiohttp = "^3.9.0"
+aiohttp = "^3.13.3"
 
 [tool.poetry.scripts]
 multicode-bot = "src.main:run"
